@@ -9,13 +9,14 @@ This is a project for Udacity's Data Scientist Nanodegree. In this project, I id
 ## Concepts explored in this project:
 
 Unsupervised learning algorithms like K-Means Clustering and Gaussian Mixture Model Clustering
+- Feature Scaling
+- Dimensionality reduction using Principle Component Analysis
+- Outlier identification and removal
+- Silhouette scores
 
-Feature Scaling
+To view the project, kindly open Identify_Customer_Segements.ipynb. 
+To know the description of the features kindly refer the Data_Dictionary.md.
 
-Dimensionality reduction using Principle Component Analysis
+80% of the time was utilized pre-processing and cleaning the data. Hope you enjoy going through it :)
 
-Outlier identification and removal
-
-Silhouette scores
-
-### To view the project, open Identify_Customer_Segements.ipynb. To know the description of the features kindly refer the Data_Dictionary.md.
+If you have any doubts or suggestions please feel free to email me at st638@njit.edu. Keep learning. Thank you!
