@@ -19,4 +19,6 @@ To know the description of the features kindly refer the Data_Dictionary.md.
 
 80% of the time was utilized pre-processing and cleaning the data. Hope you enjoy going through it :)
 
+GitHub is having some issue opening .ipynb files. If you face this, kindly open https://nbviewer.jupyter.org in your browser and paste my github link. Now, you should be able to view the .ipynb file. Thank you.
+
 If you have any doubts or suggestions please feel free to email me at st638@njit.edu. Keep learning. Thank you!
